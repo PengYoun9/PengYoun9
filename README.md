@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 ## Hey 👋, This is PengYoun9
 
+- 🌱 深度学习初学者
+
+- 🌱 算法优化部署
+
 ## Some of my Github Stats
 
 <a href="https://github.com/PengYoun9">
@@ -24,6 +28,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PengYoun9&layout=compact" />
 </a>
 
-- 🌱 深度学习初学者
+Languages and Tools:
 
-- 🌱 算法优化部署
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+
