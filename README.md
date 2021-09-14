@@ -20,15 +20,9 @@ Here are some ideas to get you started:
 
 ## Some of my Github Stats
 
-<a href="https://github.com/PengYoun9">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PengYoun9&show_icons=true&include_all_commits=true" />
-</a>
+![PengYoun9's GitHub stats](https://github-readme-stats.vercel.app/api?username=PengYoun9&show_icons=true&count_private=true)
 
-<a href="https://github.com/PengYoun9">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PengYoun9&layout=compact" />
-</a>
-
-Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PengYoun9&hide=c,cmake)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
